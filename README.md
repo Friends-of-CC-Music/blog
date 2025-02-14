@@ -1,13 +1,7 @@
 # mastodon/blog
 
-This repository contains the source code for the Mastodon blog at blog.joinmastodon.org
+This repository will hopefully eventually contain the source code for the FCCM blog at blog.friendsofccmusic.org
 
-The blog is built with Hugo, a static site generator. test from the web.
-
-Content contributions are limited to the core Mastodon project team.
+The blog is built with Hugo, a static site generator.
 
 Forked from mastodon/blog
-
-The next FCCM blog
-
- HTML
